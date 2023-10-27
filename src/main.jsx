@@ -68,4 +68,3 @@ const data = [
 ];
 
 ReactDOM.createRoot(document.getElementById('root')).render( <App data = {data} />);
-
